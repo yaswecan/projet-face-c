@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: chartreuse;
+    width: 100%;
+    height: 73px;
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar-left {
+    background-color: red;
+    height: 100%;
+    width: 75%;
+}
+
+.navbar-rigth {
+    background-color: yellow;
+    height: 100%;
+    width: 25%;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    gap:10px
+}
+
+.navbar-title {
+    margin-left: 60px;
+    font-size: 27px;
+    line-height: 37.8px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.navbar-rigth-accueil {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-right-programme  {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
