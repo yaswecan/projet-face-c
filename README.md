@@ -1,2 +1,2 @@
-- **Demo Live** : [face-b-delta.vercel.app](https://vercel.app)
+- **Demo Live** : [https://projet-face-c.vercel.app/](https://vercel.app)
 - **Lien de la maquette** : [https://www.figma.com/design/3KTR23ZXGa2LplKNIyF6Ss/Face-B-%C2%B7-Maquette-du-mini-site-du-festival?node-id=2-8&t=uexKQ9vBz7q9NTAg-0](#)
